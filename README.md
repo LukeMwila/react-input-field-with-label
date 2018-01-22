@@ -54,11 +54,7 @@ CSS class names should be applied to both inputFieldStyling and labelStyling.
 | Props              | Default values | Possible values                          |
 | -------------------| --------------| ------------------------------------------|
 | label              | none          | string                                    |
-| -------------------| --------------| ------------------------------------------|
 | getFieldInput      | null          | function                                  |
-| -------------------| --------------| ------------------------------------------|
 | placeholder        | none          | string                                    |
-| -------------------| --------------| ------------------------------------------|
 | inputFieldStyling  | none          | string                                    |
-| -------------------| --------------| ------------------------------------------|
 | labelStyling       | none          | string                                    |
